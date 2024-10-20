@@ -1,5 +1,5 @@
 {
   "provisioners": [
-    "python-pip"
+    "python_pip"
   ]
 }
